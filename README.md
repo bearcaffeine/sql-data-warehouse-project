@@ -34,7 +34,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ---
 
 ## 🛡️ License
-This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## 💥 About Me
 Hi, I'm **Brad Costello**. I am a business intelligence developer with years of experience building dashboard/reports, data analysis, and data warehouse management. I help convert business requirements into insightful, data driven reports and dashboards to make impactful business decisions. 
